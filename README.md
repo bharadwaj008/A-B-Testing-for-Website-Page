@@ -1,8 +1,8 @@
 ## Problem Statement:
-Let’s imagine you work on the product team at a medium-sized online e-commerce business. The UX designer worked really hard on a new version of the product page, with the hope that it will lead to a higher conversion rate. The product manager (PM) told you that the current conversion rate is about 13% on average throughout the year, and that the team would be happy with an increase of 2%, meaning that the new design will be considered a success if it raises the conversion rate to 15%.
+So, here's the deal: you're a member of the product team of a medium-sized e-commerce company. In an effort to increase conversions, the UX designer put in a lot of time and effort to revamp the product page. According to the product manager (PM), the current conversion rate is around 13% year-round, and the team is satisfied with a 2% rise. Therefore, if the new design can lift the conversion rate to 15%, it will be deemed a success.
 
 ## Objective
-Before rolling out the change, the team would be more comfortable testing it on a small number of users to see how it performs, so you suggest running an A/B test on a subset of your user base users.
+You recommend doing an A/B test on a portion of your user base before releasing the modification to the public so that the team can gauge its reception and potential problems.
 
 ## Steps
 1.Designing our experiment
