@@ -6,7 +6,11 @@ Before rolling out the change, the team would be more comfortable testing it on 
 
 ## Steps
 1.Designing our experiment
+
 2.Collecting and preparing the data
+
 3.Visualising the results
+
 4.Testing the hypothesis
+
 5.Drawing conclusions
